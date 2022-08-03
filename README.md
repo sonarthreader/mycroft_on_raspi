@@ -49,3 +49,10 @@ card 0: seeed2micvoicec [seeed-2mic-voicecard], device 0: bcm2835-i2s-wm8960-hif
   Subdevice #0: subdevice #0
 ```
 Just seeed devices, no onboard audio
+
+## Install pulseaudio
+```
+# sudo apt-get install pulseaudio
+# sudo shutdown -r now
+
+```
